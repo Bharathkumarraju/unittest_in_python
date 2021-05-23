@@ -1,5 +1,5 @@
 import unittest
-from area_of_cirle import area_of_circle
+from unittest.area_of_cirle import area_of_circle
 from math import pi
 
 class cirlcleArea(unittest.TestCase):

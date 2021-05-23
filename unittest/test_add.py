@@ -1,5 +1,5 @@
 import unittest
-from add import add
+from unittest.add import add
 
 class addition(unittest.TestCase):
     def test_if_entered_numbers_are_string(self):
